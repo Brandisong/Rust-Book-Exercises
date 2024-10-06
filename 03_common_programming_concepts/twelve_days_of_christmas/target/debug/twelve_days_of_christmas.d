@@ -1,0 +1,1 @@
+C:\Users\brand\Programming\Rust\The_Book\Rust-Book-Exercises\03_common_programming_concepts\twelve_days_of_christmas\target\debug\twelve_days_of_christmas.exe: C:\Users\brand\Programming\Rust\The_Book\Rust-Book-Exercises\03_common_programming_concepts\twelve_days_of_christmas\src\main.rs
